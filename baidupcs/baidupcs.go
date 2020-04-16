@@ -99,8 +99,8 @@ const (
 	PanBaiduCom = "pan.baidu.com"
 	// YunBaiduCom 网盘首页api地址2
 	YunBaiduCom = "yun.baidu.com"
-	// PanAppID 百度网盘appid
-	PanAppID = "250528"
+	// PanAppID 百度网盘appid, old 250528, try testing 778750
+	PanAppID = "778750"
 	// NetdiskUA 网盘客户端ua
 	NetdiskUA = "netdisk;2.2.51.6;netdisk;10.0.63;PC;android-android"
 	// DotBaiduCom .baidu.com
