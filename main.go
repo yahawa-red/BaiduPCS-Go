@@ -3,7 +3,7 @@ package main
 import (
 	"encoding/hex"
 	"fmt"
-	"github.com/iikira/BaiduPCS-Go/baidupcs"
+	"github.com/yahawa-red/BaiduPCS-Go/baidupcs"
 	"github.com/iikira/BaiduPCS-Go/internal/pcscommand"
 	"github.com/iikira/BaiduPCS-Go/internal/pcsconfig"
 	"github.com/iikira/BaiduPCS-Go/internal/pcsfunctions/pcsdownload"
